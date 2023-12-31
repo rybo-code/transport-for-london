@@ -5,8 +5,6 @@ Created on Sat Dec 30 15:06:43 2023
 @author: Ryan Bolger
 """
 
-import pandas as pd
-from pathlib import Path
 from dotenv import load_dotenv
 import requests
 import logging
