@@ -1,0 +1,2 @@
+## Transport for London API Exploration
+London's TFL offers an API with access to many components of their public transit network. Among the enpoints is the Bike Station endpoint, offering live data on the state of bike share stations around London.
